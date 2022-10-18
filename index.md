@@ -1,1 +1,1 @@
-# Minimist Theme!
+# Minima Theme!
